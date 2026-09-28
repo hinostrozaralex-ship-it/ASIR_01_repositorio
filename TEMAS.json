@@ -1,13 +1,30 @@
 {
  "administracion de sistemas informaticos en redes":{
   "cursos":{
-    "gestion de base de datosd":"",
-    "implantacion de sistemas operativos":"",
-	  "ingles profesional":"",
-	  "lenguaje de marcas y sistemas de gestion de informacion":"",
-	  "planificacion y administracion de redes":"",
-	  "fundamentos de hardware":"",
-	  "intinerario personal para la empleabilidad":""
+    "gestion de base de datos":{
+		"2.3. relaciones":"es una asocioacion o vinculo entre entidades relacionadas en el mundo real...",
+		"entidades reflexivas":"",
+		"atributos en las relaciones":"la relacion tiene atributos propios",
+		"3. cardinalidad de las relaciones":""
+	},
+    "implantacion de sistemas operativos":{
+		"tema":"explicacion"
+	},
+	"ingles profesional":{
+		"tema":"explicacion"
+	},
+	"lenguaje de marcas y sistemas de gestion de informacion":{
+		"tema":"explicacion"
+	},
+	"planificacion y administracion de redes":{
+		"tema":"explicacion"
+	},
+    "fundamentos de hardware":{
+		"tema":"explicacion"
+	},
+    "intinerario personal para la empleabilidad":{
+		"tema":"explicacion"
+	}
     }
  }
 }
